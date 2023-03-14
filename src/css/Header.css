@@ -1,0 +1,16 @@
+
+.containers{
+    display: flex;
+}
+.menubar{
+    margin: 0 auto;
+    display: flex;
+    padding: 0 35px 0 15px;
+}
+.menuFixTop{
+    display: flex;
+    gap: 20px;
+}
+.menuFixBot{
+    display: flex;
+}
