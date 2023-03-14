@@ -24,8 +24,8 @@ function App() {
           <Route path='phongkham' element = {<PhongKham />} />
           <Route/>
         </Routes>
-      </Router>
       <Fooder />
+      </Router>
     </div>
   );
 }

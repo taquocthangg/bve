@@ -17,7 +17,7 @@ const PhongKham = () => {
             <div className="contents">
                 <p>Thông Số Thống Kê</p>
             </div>
-            {/* <div className="show">
+            <div className="show">
                 <div className="thongso">
                 <img src="https://medpro.vn/static/media/LuotDatKham.ee5fdeb7.svg" alt="" />
                 <p className='content'>500.000</p>
@@ -44,7 +44,18 @@ const PhongKham = () => {
                 <p className='decs'>Lượt Truy Cập Hiện Tại</p>
                 </div>
 
-            </div> */}
+            </div>
+        </div>
+        <div className="containerStyle">
+            <p className='content'>
+            TẠI SAO BẠN NÊN CHỌN CHÚNG TÔI?
+            </p>
+            <p className="tilte">
+            Chúng tôi đã tích hợp Hệ thống Quản lý Phòng khám/Phòng mạch hoàn chỉnh của mình với nhiều tính năng ưu việt.
+            </p>
+            <p className="tilte">
+            Điều này giúp chúng tôi tạo ra một hệ sinh thái tiện dụng và an toàn cho Bệnh viện và Phòng khám/Phòng mạch.
+            </p>
         </div>
       </main>
   )

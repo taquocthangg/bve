@@ -1,4 +1,4 @@
-/* .banner{
+.banner{
     display: flex;
     width: 100%;
     height: 540px;
@@ -60,4 +60,11 @@
 }
 .thongso img:hover{
     cursor: pointer;
-} */
+}
+.content, .tilte{
+    text-align: center;
+}
+.containerStyle .content{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
